@@ -9,7 +9,7 @@
 ### 🌐 About Me
 
 - 🚀 **Frontend Developer** with a focus on building seamless, interactive web experiences.
-- 💼 Currently working on [CodeNest](https://github.com/silenttrader99/codenest) and other exciting projects.
+- 💼 Currently working on [DevDocs](https://github.com/silenttrader99/devdocs) and other exciting projects.
 - 🌱 Always learning new tools and techniques, exploring the latest in frontend frameworks and libraries.
 - 💬 Reach out anytime to talk code, collaborate, or share ideas!
 
@@ -42,7 +42,7 @@
 
 ### 📝 Latest Projects
 
-- [**CodeNest**](https://github.com/silenttrader99/codenest) - A platform for developers to create and document coding tutorials, snippets, and blog posts.
+- [**DevDocs**](https://github.com/silenttrader99/devdocs) - A platform for developers to create and document coding tutorials, snippets, and blog posts.
 - [**SpaceBlog**](https://github.com/silenttrader99/space-blog) - A React-based blog project
 
 ---
